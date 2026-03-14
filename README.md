@@ -1,11 +1,39 @@
-# Some Assembly Required
-
-### *Tools Included. BYO Will.*
-
-**A relationship guide for couples, by a couple.**
-
-
-
+- [Some Assembly Required](#some-assembly-required)
+    - [*Tools Included. BYO Will.*](#tools-included-byo-will)
+  - [Author's Note](#authors-note)
+  - [Prologue](#prologue)
+  - [Part One: The Foundation](#part-one-the-foundation)
+    - [1. The Will to Make It Work](#1-the-will-to-make-it-work)
+    - [2. Check Your Ego at the Door](#2-check-your-ego-at-the-door)
+    - [3. You Are a Unit, Not Competitors](#3-you-are-a-unit-not-competitors)
+    - [4. Acknowledge the Luck](#4-acknowledge-the-luck)
+    - [5. Assume Good Intent](#5-assume-good-intent)
+  - [Part Two: The Do's](#part-two-the-dos)
+    - [6. Listen — Really Listen *(Higher Priority)*](#6-listen--really-listen-higher-priority)
+    - [7. Suggest, Don't Insist — and Meet Them Where They Are](#7-suggest-dont-insist--and-meet-them-where-they-are)
+    - [8. Accept Feedback Graciously](#8-accept-feedback-graciously)
+    - [9. Be Polite — Check Your Tone *(Ser Bueno)*](#9-be-polite--check-your-tone-ser-bueno)
+    - [10. Proactive Sacrifice and Delight](#10-proactive-sacrifice-and-delight)
+    - [11. Be the Stage Crew](#11-be-the-stage-crew)
+    - [12. Keep Count of Their Positives](#12-keep-count-of-their-positives)
+    - [13. Be Loud with Praise, Gentle with Growth Feedback](#13-be-loud-with-praise-gentle-with-growth-feedback)
+    - [14. Keep Checking In](#14-keep-checking-in)
+    - [15. Be the Pillar — Especially During Hard Times](#15-be-the-pillar--especially-during-hard-times)
+    - [16. Flirt Daily](#16-flirt-daily)
+    - [17. Cute Routines and Creative Playfulness](#17-cute-routines-and-creative-playfulness)
+    - [18. Share Your Life — Including the Boring Parts](#18-share-your-life--including-the-boring-parts)
+    - [19. Flexibility in Lead](#19-flexibility-in-lead)
+    - [20. Earn Trust — Continuously](#20-earn-trust--continuously)
+    - [21. Be Forward-Looking](#21-be-forward-looking)
+    - [22. Use Technology as Your Ally](#22-use-technology-as-your-ally)
+  - [Part Three: The Don'ts](#part-three-the-donts)
+    - [23. Keep Drama Out of Your Life *(Higher Priority)*](#23-keep-drama-out-of-your-life-higher-priority)
+    - [24. Don't Keep Score — and Never Weaponise Your Generosity](#24-dont-keep-score--and-never-weaponise-your-generosity)
+    - [25. Don't Gossip — In Front of Them or Behind Their Back](#25-dont-gossip--in-front-of-them-or-behind-their-back)
+  - [Part Four: Boundaries — How Not to Get Walked Over](#part-four-boundaries--how-not-to-get-walked-over)
+  - [Part Five: The Elephant Gets Its Own Room](#part-five-the-elephant-gets-its-own-room)
+  - [Part Six: Quick Reference](#part-six-quick-reference)
+  - [Epilogue: Making This Guide Obsolete](#epilogue-making-this-guide-obsolete)
 ---
 
 ## For Reviewers
