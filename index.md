@@ -403,7 +403,7 @@ The emotional foundation described in this guide — trust, respect, communicati
 ## Part Six: Quick Reference
 
 | # | Pointer |
-|---|---|
+| --- | --- |
 | | **Always-On** |
 | 1 | Will — show up, especially on the hard days |
 | 2 | Ego — check it at the door |

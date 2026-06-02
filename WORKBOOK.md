@@ -1,5 +1,7 @@
 # Some Assembly Required — Project Workbook
+
 ## Living document for project state, progress, and next steps
+
 **Last updated:** 2026-06-02
 
 ---
@@ -9,9 +11,9 @@
 **Guide version:** V4 (final draft — content complete, pending Prologue + real-life examples)
 
 **Files in repo:**
-- `README.md` — Public-facing file: TOC + For Reviewers section + full guide content
-- `Relationship_Guide.md` — Guide content only (mirrors the guide section of README.md)
-- `PROJECT_CONTEXT.md` — Old working notes document (superseded by this WORKBOOK)
+
+- `README.md` — Repo description: project summary + For Reviewers section + links to guide
+- `index.md` — The guide itself (GitHub Pages serves this as the website homepage)
 - `WORKBOOK.md` — This file
 
 **Structure of V4 guide:**
@@ -32,21 +34,26 @@ Author's Note → Prologue [PENDING] → Foundation (5) → Do's (17, #6–#22) 
 - [x] Part Five: The Elephant (physical intimacy + consent note)
 - [x] Title finalised: *Some Assembly Required: Tools Included. BYO Will.*
 - [x] Cross-references between pointers in place (6→10→11 chain, 12↔24 shadow pair, 13↔25 flip)
+- [x] README.md cleaned up (project description only, not the guide)
+- [x] index.md as canonical guide file (GitHub Pages homepage)
+- [x] PROJECT_CONTEXT.md deleted (superseded by this WORKBOOK)
 
 ---
 
 ## What's Missing / Pending
 
 ### Critical (blocks book completion)
-- [ ] **Prologue** — marked `[Placeholder — to be written.]` in both README.md and Relationship_Guide.md. This is the personal "why we wrote this" story. Needs Jay's input.
+
+- [ ] **Prologue** — marked `[Placeholder — to be written.]` in index.md. Personal "why we wrote this" story. Needs Jay's input.
 - [ ] **Real-life examples from Jay** — 15–20 personal stories needed (see Examples Tracker below). Currently all examples are illustrative/generic. Personal examples will power both the book and the Ghibli strips.
 
 ### Important (polish before publish)
-- [ ] **Sync check** — README.md and Relationship_Guide.md appear to have identical guide content. Decide: should they stay in sync, or should README.md just reference Relationship_Guide.md?
+
 - [ ] **Book format decision** — book vs. blog vs. both (see Format section below)
 - [ ] **Foreword** — optional but common in books of this type. Could be written by Jay's wife or a mutual friend/mentor.
 
 ### Nice to Have
+
 - [ ] **Index / glossary** — probably not needed for this length/style
 - [ ] **App concept** — daily prompt system (future phase, not blocking)
 
@@ -57,7 +64,7 @@ Author's Note → Prologue [PENDING] → Foundation (5) → Do's (17, #6–#22) 
 For each pointer, this tracks: (a) whether a **generic example** exists in the guide, and (b) whether a **personal/real-life example** from Jay has been provided (for Ghibli strips + book depth).
 
 | # | Pointer | Generic Example | Jay's Real Example |
-|---|---|---|---|
+| --- | --- | --- | --- |
 | 1 | Will | fight/voice underneath | ❌ pending |
 | 2 | Ego | anniversary restaurant | ❌ pending |
 | 3 | Unit | relocation, promotion joy | ❌ pending |
@@ -67,7 +74,7 @@ For each pointer, this tracks: (a) whether a **generic example** exists in the g
 | 7 | Suggest Don't Insist | manager conversation, walk/process | ❌ pending |
 | 8 | Accept Feedback | phone at dinner | ❌ pending |
 | 9 | Tone | trash reminder | ❌ pending |
-| 10 | Proactive Sacrifice | window seat, lunch delivery | ✅ (window seat IS Jay's real example) |
+| 10 | Proactive Sacrifice | window seat, lunch delivery | ✅ window seat is Jay's real example |
 | 11 | Stage Crew | cooking/kitchen prep | ❌ pending |
 | 12 | Keep Count Positives | pantry reorganisation | ❌ pending |
 | 13 | Loud Praise | dinner party brag, parent disagreement | ❌ pending |
@@ -81,10 +88,11 @@ For each pointer, this tracks: (a) whether a **generic example** exists in the g
 | 21 | Forward-Looking | anniversary vs. rehashing | ❌ pending |
 | 22 | Technology | shared Google Calendar | ❌ pending |
 | 23 | Drama | coworker / dishwasher | ❌ pending |
-| 24 | Don't Keep Score | middle seat speech | ✅ (this IS Jay's real example) |
+| 24 | Don't Keep Score | middle seat speech | ✅ middle seat speech is Jay's real example |
 | 25 | Gossip | parallel park laugh vs. "so lazy" | ❌ pending |
 
 **Summary: 2 confirmed real examples, 23 still needed.**
+
 Priority for Ghibli strips: #6, #10, #11, #15, #16, #17, #18, #24 (strongest visual/emotional potential).
 
 ---
@@ -92,10 +100,13 @@ Priority for Ghibli strips: #6, #10, #11, #15, #16, #17, #18, #24 (strongest vis
 ## Ghibli Illustrated Strips — Plan
 
 **Concept:** Each strip = one domestic scene, one principle, NO label. Ghibli aesthetic. Minimal words. Strong feeling.
+
 **Distribution:** Instagram/Pinterest as standalone posts + collected booklet.
+
 **Relationship to guide:** Strips are the hook; guide is the substance. Reader who's read the guide recognises the principle; reader who hasn't still feels something.
 
 **Best candidates for first batch (visual storytelling potential):**
+
 1. **#6 Listen** — Partner mentions pre-presentation anxiety casually. Months later: partner comes home to favourite meal, quiet evening. No explanation needed. Caption: *"She never had to ask."*
 2. **#10 Proactive Sacrifice** — Window seat scene. He always looks out the window. One day she sees the middle/aisle choice and takes the middle before he can. He notices.
 3. **#11 Stage Crew** — Kitchen scene. Partner cooking their signature dish. Other partner has already cleared counter, prepped ingredients, and is quietly cleaning behind them.
@@ -114,14 +125,17 @@ Priority for Ghibli strips: #6, #10, #11, #15, #16, #17, #18, #24 (strongest vis
 ## Format Decisions — Pending
 
 ### Written Guide Options
+
 | Option | Pros | Cons |
-|---|---|---|
+| --- | --- | --- |
 | Self-published book (Kindle/print-on-demand) | Full control, passive income potential | Requires formatting, cover design, ISBN |
 | Blog series (Substack / personal site) | Free, shareable, builds audience | Fragmented, harder to monetise |
 | Both | Widest reach | More work |
 
 ### Free Sample / Lead Magnet Options
+
 **Recommended:** Give away **Part One: The Foundation** (pointers 1–5) as free sample.
+
 - It's the most philosophical, most impactful section
 - Creates an emotional hook without giving away the full toolkit
 - Ends naturally before the actionable "Do's" begin — leaves the reader wanting more
@@ -136,7 +150,7 @@ Priority for Ghibli strips: #6, #10, #11, #15, #16, #17, #18, #24 (strongest vis
 These sections can stand alone as essays without spoiling the book:
 
 | Candidate | Why It Works Standalone |
-|---|---|
+| --- | --- |
 | "Will" (#1) | Deep philosophical piece — "the engine underneath" |
 | "You Are a Unit" (#3) | Universal operating principle, good hook |
 | "Assume Good Intent" (#5) | Interesting intellectual framing (Retrospective Prime Directive adapted to love) |
@@ -149,20 +163,8 @@ These sections can stand alone as essays without spoiling the book:
 
 ---
 
-## Notes on Files & Git
-
-**Should PROJECT_CONTEXT.md go to git?**
-The repo appears to be public (README has a "For Reviewers" section with public issue links). PROJECT_CONTEXT.md is an internal working document — it has no value to external readers and could look unprofessional. Recommendation: **add it to .gitignore and keep it local** (or delete it now that this WORKBOOK supersedes it). This WORKBOOK.md should be committed to git — it's transparent about the project's state and adds credibility to the project.
-
-**Sync between README.md and Relationship_Guide.md:**
-Currently duplicated. Two options:
-- Keep README.md as the canonical guide (one source of truth) and delete Relationship_Guide.md
-- Keep both but clearly document they're mirrors (maintenance overhead)
-Recommendation: **Make README.md canonical, delete Relationship_Guide.md** (or convert it to a minimal pointer to README.md).
-
----
-
 ## Role Context
+
 Claude acts as a relationship counsellor with 25+ years of marriage counselling and relationship advice experience, collaborating as a creative and editorial partner on this guide.
 
 ---
